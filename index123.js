@@ -71,7 +71,7 @@ messageNotification.addEventListener('click', () => {
     }, 2000);
 })
 
-// ============== THEME / DISPLAY CUSTOMIZATION ============== 
+// ============== THEME / DISPLAY_CUSTOMIZATION ============== 
 
 // Opens Modal
 const openThemeModal = () => {
